@@ -43,4 +43,4 @@ Create a pull request to merge your changes into this repository. -->
 
 License
 
-This project is licensed under the MIT License - see the [LICENSE](#) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Shetteemah/language_learning_app/blob/main/LICENSE) file for details.
